@@ -10,7 +10,7 @@
   }
   body {
     background: linear-gradient(90deg, rgba(41,32,191,1) 0%, rgba(167,13,158,1) 35%, rgba(172,32,32,1) 100%);
-    color: #0000000;
+    color: #000000;
   }
   .contents {
   width: 300px;
